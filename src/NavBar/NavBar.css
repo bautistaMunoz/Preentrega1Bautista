@@ -1,0 +1,27 @@
+.navbar{
+    width: 100%;
+    height:  100px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h2{
+    color: white;
+}
+.categorias{
+    display: flex;
+    list-style: none;
+}
+.tiposCat{
+    padding: 0 40px ;
+    text-transform: uppercase;
+}
+.cartwidget{
+    display: flex;
+    font-size: 40px;
+}
+.totalCart{
+    font-size: 20px;
+    margin-left: 18px;
+}
